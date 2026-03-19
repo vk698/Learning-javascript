@@ -44,6 +44,8 @@
 //     i++
 // }while(i<11)
 
+
+// 1 to 10
 let a=0;
 while(a<=10)
 {
