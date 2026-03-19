@@ -27,3 +27,26 @@
 //     console.log("odd",a)
 // }
 // }
+
+
+
+
+
+// let i=0;
+// do{
+//     console.log(i)
+//     i++;
+// }while(i<11)
+
+// let i=1;
+// do{
+//     console.log(`2x${i}=`,2*i)
+//     i++
+// }while(i<11)
+
+let a=0;
+while(a<=10)
+{
+    console.log(a)
+    a++;
+}
