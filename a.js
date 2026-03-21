@@ -3,4 +3,20 @@
 // Write a program to count digits in a given number.
 // Write a program to print the sum of digits of a number.
 // Write a program to display numbers from 1 to 20 but stop if the number reaches 15.
-// Write a program to print all numbers divisible by 3 between 1 and 30.
+// Write a program to print all numbers divisible by 3 between 1
+
+// for(let a=1; a<=15; a++)
+// {
+//     if(a%2==0)
+//     {
+//         console.log(a)
+//     }
+// }
+
+for(let a=1; a<=15; a++)
+{
+    if(a%2==0)
+    {
+        console.log(a)
+    }
+}
