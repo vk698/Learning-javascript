@@ -36,3 +36,16 @@
 //     }
 //     console.log(a)
 // }
+
+
+
+
+
+
+
+
+
+
+// Write a program to count digits in a given number.
+
+// Write a program to print the sum of digits of a number.
