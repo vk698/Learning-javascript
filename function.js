@@ -16,7 +16,7 @@ let s=(...args)=>
     
 {
     let sum=0;
-    for(let arg of args) sum += arg;
+    for(let a of args) sum += a;
     console.log(sum)
     return
 
