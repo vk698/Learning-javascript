@@ -199,3 +199,7 @@
 // let a=[{name: "John"}, {name: "Jane"}];
 // let b=a.map(c=>c.name)
 // console.log(b);
+
+
+
+
